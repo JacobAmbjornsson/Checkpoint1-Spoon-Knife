@@ -1,0 +1,9 @@
+Which git command would you use to:
+
+Q1. View the history of the repository
+Q2. If there are outstanding commits to do
+Q3. Start a new repository
+
+A1. git log
+A2. git status
+A3. git init
